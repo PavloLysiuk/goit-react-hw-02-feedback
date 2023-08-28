@@ -1,4 +1,4 @@
-import {StatisticsItem} from './Statistics.styled'
+import { StatisticsItem } from './Statistics.styled';
 
 export const Statistics = ({
   good,

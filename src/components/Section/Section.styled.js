@@ -1,7 +1,6 @@
 import { styled } from 'styled-components';
 
-export const SectionWrapper = styled.div`
-`;
+export const SectionWrapper = styled.div``;
 
 export const SectionTitle = styled.div`
   margin-bottom: 16px;

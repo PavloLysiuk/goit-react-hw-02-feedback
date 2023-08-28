@@ -28,4 +28,3 @@ export const OptionBtn = styled.button`
     background-color: #0099e6;
   }
 `;
-
